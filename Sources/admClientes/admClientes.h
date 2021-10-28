@@ -1,0 +1,9 @@
+#ifndef ADMCLIENTES_H
+#define ADMCLIENTES_H
+
+#define MAX_CLIENTES 20
+#define MAX_CAJEROS 4
+#define MAX_MOVIMIENTOS 10
+
+
+#endif // ADMCLIENTES_H_INCLUDED

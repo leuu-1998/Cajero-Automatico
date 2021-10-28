@@ -1,0 +1,6 @@
+CLIENTE: Roberto Sifuentes
+LUGAR: CAJERO 2
+FECHA: 28/10/21 HORA: 13:22
+---------------------------
+SALDO ACTUAL: S./4319,85
+---------------------------
